@@ -1,0 +1,20 @@
+#backend
+FirstMobileBackend/node_modules
+FirstMobileBackend/.vscode
+FirstMobileBackend/.env
+FirstMobileBackend/src/.env
+
+#frontend
+FirstMobile/node_modules/
+FirstMobile/.expo/
+FirstMobile/npm-debug.*
+FirstMobile/*.jks
+FirstMobile/*.p8
+FirstMobile/*.p12
+FirstMobile/*.key
+FirstMobile/*.mobileprovision
+FirstMobile/*.orig.*
+FirstMobile/web-build/
+
+# macOS
+FirstMobile/.DS_Store
